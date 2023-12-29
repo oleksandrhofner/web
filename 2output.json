@@ -1,0 +1,77 @@
+[
+	{
+		"id": "1",
+		"first_name": "Dayna",
+		"last_name": "Hunnable",
+		"email": "dhunnable0@tripadvisor.com",
+		"gender": "Female",
+		"ip_address": "224.210.125.215",
+		"self": "http://example.com/articles",
+		"next": "http://example.com/articles?page[offset]=2",
+		"last": "http://example.com/articles?page[offset]=10"
+	},
+	{
+		"id": "2",
+		"first_name": "Emma",
+		"last_name": "Ulyat",
+		"email": "eulyat1@vkontakte.ru",
+		"gender": "Female",
+		"ip_address": "160.50.38.55"
+	},
+	{
+		"id": "3",
+		"first_name": "Valentina",
+		"last_name": "McAllen",
+		"email": "vmcallen2@livejournal.com",
+		"gender": "Female",
+		"ip_address": "218.115.116.190"
+	},
+	{
+		"id": "4",
+		"first_name": "Lemar",
+		"last_name": "Beaves",
+		"email": "lbeaves3@netlog.com",
+		"gender": "Male",
+		"ip_address": "198.179.238.222"
+	},
+	{
+		"id": "5",
+		"first_name": "Pauletta",
+		"last_name": "Rao",
+		"email": "prao4@over-blog.com",
+		"gender": "Female",
+		"ip_address": "92.240.127.91"
+	},
+	{
+		"id": "6",
+		"first_name": "Rubina",
+		"last_name": "Saurat",
+		"email": "rsaurat5@yolasite.com",
+		"gender": "Female",
+		"ip_address": "20.74.204.25"
+	},
+	{
+		"id": "7",
+		"first_name": "Marty",
+		"last_name": "Germann",
+		"email": "mgermann6@va.gov",
+		"gender": "Female",
+		"ip_address": "199.244.142.8"
+	},
+	{
+		"id": "8",
+		"first_name": "Myrwyn",
+		"last_name": "Fairbank",
+		"email": "mfairbank7@blinklist.com",
+		"gender": "Male",
+		"ip_address": "226.215.194.88"
+	},
+	{
+		"id": "9",
+		"first_name": "Reube",
+		"last_name": "Vowell",
+		"email": "rvowell8@ebay.com",
+		"gender": "Male",
+		"ip_address": "43.101.247.229"
+	}
+]

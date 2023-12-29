@@ -1,0 +1,77 @@
+[
+	{
+		"RegisterDate": "8/23/2012",
+		"Points": "199697",
+		"CurrentRanking": "1",
+		"HighestRanking": "1",
+		"Country": "Brazil",
+		"Continent": "South America",
+		"self": "http://example.com/articles",
+		"next": "http://example.com/articles?page[offset]=2",
+		"last": "http://example.com/articles?page[offset]=10"
+	},
+	{
+		"RegisterDate": "9/7/2016",
+		"Points": "188693",
+		"CurrentRanking": "2",
+		"HighestRanking": "1",
+		"Country": "None",
+		"Continent": "None"
+	},
+	{
+		"RegisterDate": "6/24/2013",
+		"Points": "160026",
+		"CurrentRanking": "3",
+		"HighestRanking": "1",
+		"Country": "None",
+		"Continent": "None"
+	},
+	{
+		"RegisterDate": "8/24/2015",
+		"Points": "119109",
+		"CurrentRanking": "4",
+		"HighestRanking": "4",
+		"Country": "Lithuania",
+		"Continent": "Europe"
+	},
+	{
+		"RegisterDate": "4/20/2014",
+		"Points": "118149",
+		"CurrentRanking": "5",
+		"HighestRanking": "5",
+		"Country": "Canada",
+		"Continent": "North America"
+	},
+	{
+		"RegisterDate": "11/13/2012",
+		"Points": "116060",
+		"CurrentRanking": "6",
+		"HighestRanking": "4",
+		"Country": "United States",
+		"Continent": "North America"
+	},
+	{
+		"RegisterDate": "2/28/2014",
+		"Points": "114214",
+		"CurrentRanking": "7",
+		"HighestRanking": "3",
+		"Country": "China",
+		"Continent": "Asia"
+	},
+	{
+		"RegisterDate": "11/8/2015",
+		"Points": "106314",
+		"CurrentRanking": "8",
+		"HighestRanking": "8",
+		"Country": "Russia",
+		"Continent": "Asia"
+	},
+	{
+		"RegisterDate": "6/25/2010",
+		"Points": "103017",
+		"CurrentRanking": "9",
+		"HighestRanking": "6",
+		"Country": "Austria",
+		"Continent": "Europe"
+	}
+]
